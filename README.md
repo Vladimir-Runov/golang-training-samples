@@ -1,2 +1,3 @@
 en: example of implementing encryption for a 64-byte array based on an 8x8 cube slice rotation algorithm. It will then be used to practice writing a process for goroutine interactions on a stream of encryption and decryption of a large text divided into 64-byte chunks.
-<img width="100" height="100" alt="019cb54e-9b51-740b-ac61-27cfa8dfcb4c" src="https://github.com/user-attachments/assets/81a81de6-7f12-47cf-b3a1-a0536bc5c1a6" />
+
+<img width="100" height="100" alt="019cb54e-9b51-740b-ac61-27cfa8dfcb4c" src="https://github.com/user-attachments/assets/5216e9c7-9ce3-448e-a296-672c869b5f6d" />
